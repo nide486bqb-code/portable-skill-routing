@@ -1,0 +1,12 @@
+{
+  "name": "portable-skill-routing",
+  "version": "0.1.0",
+  "license": "MIT",
+  "entrypoints": {
+    "routing": "SKILL_ROUTING.md",
+    "skill": "SKILL.md",
+    "generic_agent": "AGENT_INSTRUCTIONS.md"
+  },
+  "runtime": "Markdown only",
+  "compatibility": "Agent-neutral policy template; automatic loading depends on the host Agent"
+}
