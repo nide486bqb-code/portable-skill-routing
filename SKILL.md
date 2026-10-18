@@ -1,6 +1,10 @@
 ---
 name: portable-skill-routing
 description: Route tasks to the smallest set of installed skills or agent capabilities across computers, accounts, and Agent products. Use when selecting skills, handling missing optional skills, or publishing portable skill instructions.
+license: MIT
+compatibility: Markdown-only policy; automatic loading depends on the host Agent.
+metadata:
+  version: "0.1.1"
 ---
 
 # Portable Skill Routing
